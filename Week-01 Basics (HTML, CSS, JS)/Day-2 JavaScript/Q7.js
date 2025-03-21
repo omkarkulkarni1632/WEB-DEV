@@ -7,4 +7,5 @@ let username = {
     age: 99,
     gender: "Male",
 };
+
 greet(username);

@@ -8,4 +8,4 @@ function isEven(number){
         console.log("The number is odd");
     }
 }
-isEven(2);
+isEven(4);
